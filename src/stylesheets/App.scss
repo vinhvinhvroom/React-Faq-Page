@@ -1,0 +1,49 @@
+.buttonTrue{
+  background-color: #A4CE15;
+  width: 40px;
+  height: 39px;
+  border: solid;
+  box-shadow: 4px 4px;
+}
+
+.buttonFalse{
+  background-color: #1B2224;
+  color: white;
+  width: 40px;
+  height: 39px;
+  border: solid black;
+  box-shadow: 4px 4px grey;
+}
+.questionBox {
+  padding-left:15px;
+}
+.button-section {
+  width:80%;
+  padding:25px;
+  margin:0 auto;
+}
+
+.answerBox{
+  margin-top: 10px;
+}
+
+body{
+  background-color: #E5F3F4;
+}
+
+h1{
+  color: #36BECC;
+  font-family: 'Averia Sans Libre', cursive;
+}
+
+div{
+  font-family: 'Averia Sans Libre', cursive;
+}
+
+.tile{
+  border-bottom: 5px solid;
+  border-bottom-style: groove;
+  margin: 20px;
+  padding: 20px;
+  list-style-type: none;
+}
